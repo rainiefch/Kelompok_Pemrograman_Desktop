@@ -1,0 +1,18 @@
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.exe
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.deps.json
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.runtimeconfig.json
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.dll
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\bin\Debug\net8.0-windows\Whack A Mole.pdb
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack_A_Mole.Form1.resources
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack_A_Mole.Form2.resources
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack_A_Mole.Resources.resources
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.vbproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.AssemblyInfoInputs.cache
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.AssemblyInfo.vb
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.dll
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\refint\Whack A Mole.dll
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.pdb
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\Whack A Mole.genruntimeconfig.cache
+D:\Kuliah\Pemrograman Desktop\Tugas 1\Whack A Mole\Whack A Mole\obj\Debug\net8.0-windows\ref\Whack A Mole.dll
