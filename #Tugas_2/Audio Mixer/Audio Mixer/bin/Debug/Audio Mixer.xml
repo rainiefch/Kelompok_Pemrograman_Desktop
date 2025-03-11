@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Audio Mixer
+</name>
+</assembly>
+<members>
+<member name="T:Audio_Mixer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Audio_Mixer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Audio_Mixer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Audio_Mixer.My.Resources.Resources.low_volume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Audio_Mixer.My.Resources.Resources.medium_volume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Audio_Mixer.My.Resources.Resources.no_volume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Audio_Mixer.My.Resources.Resources.stopwatch">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Audio_Mixer.Form1.LoadAudioApplications">
+ <summary>
+ Detect active audio applications and update UI
+ </summary>
+</member>
+<member name="M:Audio_Mixer.Form1.TrackBar_Scroll(System.Object,System.EventArgs)">
+ <summary>
+ Adjusts app volume when TrackBar is moved
+ </summary>
+</member>
+<member name="M:Audio_Mixer.Form1.Timer1_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Refreshes the list every 2 seconds
+ </summary>
+</member>
+</members>
+</doc>

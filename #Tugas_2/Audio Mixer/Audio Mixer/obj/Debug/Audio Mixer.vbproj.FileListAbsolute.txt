@@ -1,0 +1,68 @@
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.exe.config
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.exe
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.pdb
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Asio.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Core.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Midi.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Wasapi.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinForms.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinMM.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.AccessControl.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Asio.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Core.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Midi.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Wasapi.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinForms.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinMM.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.AccessControl.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.Principal.Windows.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.vbproj.AssemblyReference.cache
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio_Mixer.Form1.resources
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio_Mixer.Form2.resources
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio_Mixer.Resources.resources
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.vbproj.GenerateResource.cache
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.vbproj.CoreCompileInputs.cache
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mi.09680D5B.Up2Date
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.exe
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.xml
+D:\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.pdb
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.exe.config
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.exe
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.pdb
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Audio Mixer.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Asio.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Core.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Midi.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Wasapi.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinForms.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinMM.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Asio.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Core.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Midi.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.Wasapi.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinForms.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\NAudio.WinMM.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.vbproj.AssemblyReference.cache
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio_Mixer.Form1.resources
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio_Mixer.Form2.resources
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio_Mixer.Resources.resources
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.vbproj.GenerateResource.cache
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mi.09680D5B.Up2Date
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.exe
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.xml
+C:\Users\asus\Downloads\Audio-Mixer (2)\Audio-Mixer\Audio Mixer\Audio Mixer\obj\Debug\Audio Mixer.pdb
