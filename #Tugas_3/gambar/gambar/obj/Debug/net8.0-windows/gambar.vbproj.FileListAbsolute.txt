@@ -1,0 +1,38 @@
+D:\gambar\gambar\bin\Debug\net8.0-windows\gambar.exe
+D:\gambar\gambar\bin\Debug\net8.0-windows\gambar.deps.json
+D:\gambar\gambar\bin\Debug\net8.0-windows\gambar.runtimeconfig.json
+D:\gambar\gambar\bin\Debug\net8.0-windows\gambar.dll
+D:\gambar\gambar\bin\Debug\net8.0-windows\gambar.pdb
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.Form1.resources
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.FrmHistogram.resources
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.vbproj.GenerateResource.cache
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.GeneratedMSBuildEditorConfig.editorconfig
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.AssemblyInfoInputs.cache
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.AssemblyInfo.vb
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.vbproj.CoreCompileInputs.cache
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.dll
+D:\gambar\gambar\obj\Debug\net8.0-windows\refint\gambar.dll
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.pdb
+D:\gambar\gambar\obj\Debug\net8.0-windows\gambar.genruntimeconfig.cache
+D:\gambar\gambar\obj\Debug\net8.0-windows\ref\gambar.dll
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\bin\Debug\net8.0-windows\gambar.exe
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\bin\Debug\net8.0-windows\gambar.deps.json
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\bin\Debug\net8.0-windows\gambar.runtimeconfig.json
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\bin\Debug\net8.0-windows\gambar.dll
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\bin\Debug\net8.0-windows\gambar.pdb
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.Form1.resources
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.FrmHistogram.resources
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.FrmHistogramBalok2.resources
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.Frmopsiborder.resources
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.Frmwatermark.resources
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.vbproj.GenerateResource.cache
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.GeneratedMSBuildEditorConfig.editorconfig
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.AssemblyInfoInputs.cache
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.AssemblyInfo.vb
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.vbproj.CoreCompileInputs.cache
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.sourcelink.json
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.dll
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\refint\gambar.dll
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.pdb
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\gambar.genruntimeconfig.cache
+D:\progdesk\Pemrograman_Desktop\#folder pertemuan9\gambar\gambar\obj\Debug\net8.0-windows\ref\gambar.dll
