@@ -1,0 +1,39 @@
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\LENOVO\Documents\GitHub\Pemrograman_Desktop\Folder Pertemuan 13\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Sliper.io\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Sliper.io\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Sliper.io\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Sliper.io\Sliper.io\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Sliper.io\Sliper.io\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\bin\Debug\WindowsApp1.exe.config
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\bin\Debug\WindowsApp1.exe
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\bin\Debug\WindowsApp1.pdb
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\bin\Debug\WindowsApp1.xml
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.Form1.resources
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.Form2.resources
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.Resources.resources
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.exe
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.xml
+D:\Progdeks\Pemrograman_Desktop\Tugas_4\Sliper.io\SnakeGame\obj\Debug\WindowsApp1.pdb
